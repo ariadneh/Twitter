@@ -8,7 +8,7 @@ Projeto requisitado no Sprint 2 da Laboratória - Bootcamp de programação para
 Fazer uma página inspirada no feed de notícias do Twitter, conforme os requisitos de cada versão solicitada.
 
 
-## Requisito por versão
+### Requisito por versão
 
 #### Versão 0.0.1
 Criar um formulário que permita inserir um texto e um botão para "twittar".
