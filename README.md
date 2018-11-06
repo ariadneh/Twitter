@@ -1,7 +1,7 @@
  # Protótipo do Twitter
 Realizado em junho/2018.
 
-[Twitter](https://user-images.githubusercontent.com/44262649/48066657-54a17e00-e1b5-11e8-9271-9e62bbad03ab.png)
+Format: ![Twitter](https://user-images.githubusercontent.com/44262649/48066657-54a17e00-e1b5-11e8-9271-9e62bbad03ab.png)
 
 Projeto requisitado no Sprint 2 da Laboratória - Bootcamp de programação para mulheres
 
